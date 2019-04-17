@@ -1,1 +1,1 @@
-test doc
+用于测试 abp vnext 的文档中心
