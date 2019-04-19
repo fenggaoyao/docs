@@ -4,24 +4,24 @@
       "text": "销售模块",
       "items": [
         {
-          "text": "Sample Menu Item - 1.1",
+          "text": "基础资料",
           "items": [
             {
-              "text": "Sample Menu Item - 1.1.1",
-              "path": "SampleMenuItem_1_1_1.md"
+              "text": "客户/供应商",
+              "path": "customer.md"
             }
           ]
         },
         {
-          "text": "Sample Menu Item - 1.2",
+          "text": "管理模块",
           "items": [
             {
-              "text": "Sample Menu Item - 1.2.1",
-              "path": "SampleMenuItem_1_2_1.md"
+              "text": "销售价格",
+              "path": "sales_price.md"
             },
             {
-              "text": "Sample Menu Item - 1.2.2",
-              "path": "SampleMenuItem_1_2_2.md"
+              "text": "销售订单",
+              "path": "sales_order.md"
             }
           ]
         }
@@ -31,11 +31,11 @@
       "text": "产品模块",
       "items": [
         {
-          "text": "Sample Menu Item - 2.1",
+          "text": "基础资料",
           "items": [
             {
-              "text": "Sample Menu Item - 2.1.1",
-              "path": "SampleMenuItem_2_1_1.md"
+              "text": "产品描述",
+              "path": "product.md"
             }
           ]
         }
