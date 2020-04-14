@@ -1,5 +1,10 @@
 {
-    "Languages":[     
+    "Languages":[ 
+      {
+        "DisplayName" : "English",
+        "Code" : "en",
+        "IsDefault": false
+      },   
    
       {
         "DisplayName" : "简体中文",
